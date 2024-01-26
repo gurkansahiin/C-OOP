@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[UyeTbl]
+ADD [UBaslangic] DATETIME NOT NULL,
+    [UBitis] DATETIME NOT NULL;
